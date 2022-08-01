@@ -1,44 +1,43 @@
 
-# Cardapio-Digital
+# 📌 Cardapio-Digital
 
 Simples cardápio de hamburgueria para divulgação.
 
-## Screenshots
+## 📷 Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](assets/img/Screenshot.png)
 
-## Pré-requisitos
+## 🛠 Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
- - [Git](https://git-scm.com)
 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+ - [`Git`](https://git-scm.com)
 
-## Rodando localmente
+Além disto é bom ter um editor para trabalhar com o código como [`VSCode`](https://code.visualstudio.com/)
+
+## 💻 Rodando localmente
 
 Clone o projeto:
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/veras-dan/cardapio-digital
 ```
 
 Entre no diretório do projeto:
 
 ```bash
-  cd my-project
+  cd cardapio-digital
 ```
-
-
 
 ## 📦 Desenvolvimento
 
 Projeto antigo era bem mais simples e era com base em uma cafeteria. A ideia foi reutilizar o código e melhorar ainda mais a estrutura do código.
 
-## Contribuindo
-> Contribuições são sempre bem-vindas! Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md).
+## 📝 Contribuindo
+> Contribuições são sempre bem-vindas! Caso tenha alguma dúvida confira este [`guia de como contribuir no GitHub`](./CONTRIBUTING.md).
 
 
-## Autores
+## ✍🏻 Autores
 
 <a href="https://github.com/veras-dan">
  <img style="border-radius: 50%;" src="https://media.discordapp.net/attachments/891798888594436199/980284436954357780/perfil_dan.jpg?width=100&height=100" width="60px;" alt="foto"/>
@@ -48,7 +47,7 @@ Projeto antigo era bem mais simples e era com base em uma cafeteria. A ideia foi
 
 ---
 
-## Contatos 
+## 📖 Contatos 
 
 Alguns canais para entrar em contato:
 
@@ -59,4 +58,4 @@ Alguns canais para entrar em contato:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT licensed](./LICENSE).
+Este projeto esta sobe a licença [`MIT licensed`](./LICENSE).
