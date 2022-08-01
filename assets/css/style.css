@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans&display=swap');
+
+body {
+    background-image: url(../img/fundo.jpg);
+    padding:30px;
+}
+
+h1, h2, p {
+    text-align: center;
+    color: aliceblue;
+}
+h2 {
+    font-family: 'Great Vibes', cursive;
+}
+
+.title { 
+    font-family: 'Parisienne', cursive;
+    font-size: 70px;
+    margin-bottom: -10px;
+}
+
+.subtitle {
+    font-size: 45px;
+}
+
+.title-2 {
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Opens Sans', sans-serif;
+}
+
+.container{
+    display: flex;
+    gap: 5px;
+}
+
+.card {
+    width: 50%;
+    border:6px inset #f8d409;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+.card-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#burgue-menu {
+    height: 300px;
+    
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.flavor, .dessert {
+    text-align: left;
+    width: 75%;
+}
+      
+.price {
+    text-align: right;
+    width: 25%;
+}
+/* FOOTER */
+
+footer {
+    font-size: 14px;
+}
+  
+.address {
+    margin-bottom: 5px;
+}
+  
+a {
+    color: white;
+}
+  
+a:visited {
+    color: white;
+}
+  
+a:hover {
+    color: #f8d409;
+}
+  
+a:active {
+    color: #f8d409;
+}
